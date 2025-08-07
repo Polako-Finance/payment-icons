@@ -14,6 +14,7 @@ Below is a summary of the logos included and their respective usage terms or tra
 | **AltaPay**                    | Alta Pay IEN (Alta Pay Group) | Vectorized from the original design | [Link](https://altapay.rs/en/about-us)                                       |
 | **American Express**           | American Express Company      | Reframed for layout consistency     | [Link](https://www.americanexpress.com/en-us/business/merchant/supplies/)    |
 | **DinaCard**                   | National Bank of Serbia       | Reframed for layout consistency     | [Link](https://dinacard.nbs.rs/english)                                      |
+| **Banca Intesa**               | Intesa Sanpaolo S.p.A.        | Reframed for layout consistency     | [Link](https://group.intesasanpaolo.com/en/about-us/our-brand)               |
 | **Maestro**®                   | Mastercard International Inc. | Reframed for layout consistency     | [Link](https://www.mastercard.com/brandcenter/us/en/brand-requirements.html) |
 | **Mastercard**®                | Mastercard International Inc. | Reframed for layout consistency     | [Link](https://www.mastercard.com/brandcenter/us/en/brand-requirements.html) |
 | Mastercard **Identity Check**™ | Mastercard International Inc. | Reframed for layout consistency     | [Link](https://www.mastercard.com/brandcenter/us/en/brand-requirements.html) |
