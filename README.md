@@ -18,6 +18,7 @@ Below is a summary of the logos included and their respective usage terms or tra
 | **Maestro**®                   | Mastercard International Inc. | Reframed for layout consistency | [Link](https://www.mastercard.com/brandcenter/us/en/brand-requirements.html) |
 | **Mastercard**®                | Mastercard International Inc. | Reframed for layout consistency | [Link](https://www.mastercard.com/brandcenter/us/en/brand-requirements.html) |
 | Mastercard **Identity Check**™ | Mastercard International Inc. | Reframed for layout consistency | [Link](https://www.mastercard.com/brandcenter/us/en/brand-requirements.html) |
+| **Polako Finance**             | Polako Finance                | Reframed for layout consistency | [Link](https://polako-finance.com)                                           |
 | **Visa**                       | Visa Inc.                     | Reframed for layout consistency | [Link](https://www.merchantsignage.visa.com/brandguidelines)                 |
 | **Visa Secure**                | Visa Inc.                     | Reframed for layout consistency | [Link](https://www.merchantsignage.visa.com/brandguidelines)                 |
 
